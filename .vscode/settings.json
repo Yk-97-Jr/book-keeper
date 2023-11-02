@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.emmet",
+    "editor.defaultFoldingRangeProvider": "vscode.typescript-language-features"
+}
